@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there!
+
+[![Github](https://img.shields.io/github/followers/paulhausner?label=Followers&logo=Github)](https://github.com/paulhausner)
+
+I am a PhD Student at Uppsala University using Machine Learning to accelerate numerical optimization! Find more information about me on my [website].
+
+[website]: https://paulhausner.github.io/
+[linkedin]: https://linkedin.com/in/paulhausner
 
 <!--
 **paulhausner/paulhausner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
